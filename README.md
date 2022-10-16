@@ -1,12 +1,22 @@
 <h1 align="center">Hi, ich bin Rene Ruprecht</h1>
 
 <h3>👋 Über mich</h3>
-Hi, Ich bin Rene Ruprecht und studiere derzeit Medieninformatik im Bachelor.
-Ich habe bereits in Biometric Research mit Python und als App Entwickler mit Flutter gearbeitet.
+<p>Hi, Ich bin Rene Ruprecht und habe meinen Bachelor of Science 2022 erfolgreich absolviert🎉.
+Ich habe durch Werkstudenten Jobs Erfahrungen im Bereich der Mobilentwicklung mit Flutter und Kotlin kennenlernen dürfen. 
+Auch im Bereich der Backend- sowie Frontendentwicklung konnte ich bereits, durch Projekte aus dem Studium, Eindrücke sammeln. Bei der Entwicklung kamen die Programmiersprachen Java (Spring Boot) und Javascript (NodeJs) für das Backend und Angular im Frontend zum Einsatz. Da ich gerne lerne, wird der Fokus nun auf die Webentwicklung gelegt. Dieses Wissen sollen als nächstes anhand eines kleinen Projektes gefestigt werden.</p>
+
 <br>
 <h3>👀 Interessen</h3>
-Ich interessiere mich für Server, Backend und Cloud Entwicklung
-<br>
+<p>Ich interessiere mich sehr für die Backend- sowie Frontend-Entwicklung. Gerne möchte ich mir auch die Clound-Entwicklung anschauen.</p>
+<h3>🖊️ In Progress</h3>
+<ul>
+<li>Web-Framework lernen: Vue.js</li>
+</ul>
+<h3>📄 TODO</h3>
+<ul>
+    <li>Web-Framework lernen (React / Angular / Vue)</li>
+    <li>Cloud lernen (AWS / Azure / GCP)</li>
+</ul>
 <h3>📫 Erreichbar über</h3>
 <ul>
     <li>
@@ -14,9 +24,6 @@ Ich interessiere mich für Server, Backend und Cloud Entwicklung
       Rene Ruprecht#8244
   </li>
 </ul>
-
-<br>
-<br>
 
 <h3 align="left">Das habe ich bereits benutzt:</h3>
 <p align="left">
