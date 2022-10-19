@@ -10,7 +10,7 @@ Auch im Bereich der Backend- sowie Frontendentwicklung konnte ich bereits, durch
 <p>Ich interessiere mich sehr für die Backend- sowie Frontend-Entwicklung. Gerne möchte ich mir auch die Clound-Entwicklung anschauen.</p>
 <h3>🖊️ In Progress</h3>
 <ul>
-<li>Web-Framework lernen: Vue.js</li>
+<li>Web-Framework lernen: Angular</li>
 </ul>
 <h3>📄 TODO</h3>
 <ul>
