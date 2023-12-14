@@ -3,19 +3,14 @@
 <h3>👋 Über mich</h3>
 <p>Hi, Ich bin Rene Ruprecht und habe meinen Bachelor of Science 2022 erfolgreich absolviert🎉.
 Ich habe durch Werkstudenten Jobs Erfahrungen im Bereich der Mobilentwicklung mit Flutter und Kotlin kennenlernen dürfen. 
-Auch im Bereich der Backend- sowie Frontendentwicklung konnte ich bereits, durch Projekte aus dem Studium, Eindrücke sammeln. Bei der Entwicklung kamen die Programmiersprachen Java (Spring Boot) und Javascript (NodeJs) für das Backend und Angular im Frontend zum Einsatz. Da ich gerne lerne, wird der Fokus nun auf die Webentwicklung gelegt. Dieses Wissen sollen als nächstes anhand eines kleinen Projektes gefestigt werden.</p>
+Auch im Bereich der Backend- sowie Frontendentwicklung konnte ich bereits, durch Projekte aus dem Studium, Eindrücke sammeln. Bei der Entwicklung kamen die Programmiersprachen Java (Spring Boot) und Javascript (NodeJs) für das Backend und Angular im Frontend zum Einsatz.</p>
 
-<br>
 <h3>👀 Interessen</h3>
 <p>Ich interessiere mich sehr für die Backend- sowie Frontend-Entwicklung. Gerne möchte ich mir auch die Clound-Entwicklung anschauen.</p>
 <h3>🖊️ In Progress</h3>
 <ul>
-<li>Web-Framework lernen: Angular</li>
-</ul>
-<h3>📄 TODO</h3>
-<ul>
-    <li>Web-Framework lernen (React / Angular / Vue)</li>
-    <li>Cloud lernen (AWS / Azure / GCP)</li>
+<li>Web-Framework lernen: Angular oder React</li>
+<li>Cloud: Azure</li>
 </ul>
 <h3>📫 Erreichbar über</h3>
 <ul>
