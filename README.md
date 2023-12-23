@@ -1,9 +1,7 @@
 <h1 align="center">Hi, ich bin Rene Ruprecht</h1>
 
 <h3>👋 Über mich</h3>
-<p>Hi, Ich bin Rene Ruprecht und habe meinen Bachelor of Science 2022 erfolgreich absolviert🎉.
-Ich habe durch Werkstudenten Jobs Erfahrungen im Bereich der Mobilentwicklung mit Flutter und Kotlin kennenlernen dürfen. 
-Auch im Bereich der Backend- sowie Frontendentwicklung konnte ich bereits, durch Projekte aus dem Studium, Eindrücke sammeln. Bei der Entwicklung kamen die Programmiersprachen Java (Spring Boot) und Javascript (NodeJs) für das Backend und Angular im Frontend zum Einsatz.</p>
+<p>Hi, Ich habe 2022 erfolgreich meinen Bachelor of Science abgeschlossen. Während meiner Werkstudententätigkeit konnte ich wertvolle Erfahrungen in der Mobilentwicklung mit Flutter und Kotlin sammeln. Zusätzlich erhielt ich durch verschiedenste Studienprojekte spannende Einblicke sowohl in die Backend- als auch Frontend-Entwicklung. Dabei setzte ich meine Kenntnisse in Programmiersprachen wie Java (Spring Boot) und Javascript (NodeJs) im Backend sowie Angular im Frontend erfolgreich ein.</p>
 
 <h3>👀 Interessen</h3>
 <p>Ich interessiere mich sehr für die Backendentwicklung. Gerne möchte ich mir auch die Clound-Entwicklung anschauen.</p>
