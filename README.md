@@ -6,10 +6,9 @@ Ich habe durch Werkstudenten Jobs Erfahrungen im Bereich der Mobilentwicklung mi
 Auch im Bereich der Backend- sowie Frontendentwicklung konnte ich bereits, durch Projekte aus dem Studium, Eindrücke sammeln. Bei der Entwicklung kamen die Programmiersprachen Java (Spring Boot) und Javascript (NodeJs) für das Backend und Angular im Frontend zum Einsatz.</p>
 
 <h3>👀 Interessen</h3>
-<p>Ich interessiere mich sehr für die Backend- sowie Frontend-Entwicklung. Gerne möchte ich mir auch die Clound-Entwicklung anschauen.</p>
+<p>Ich interessiere mich sehr für die Backendentwicklung. Gerne möchte ich mir auch die Clound-Entwicklung anschauen.</p>
 <h3>🖊️ In Progress</h3>
 <ul>
-<li>Web-Framework lernen: Angular oder React</li>
 <li>Cloud: Azure</li>
 </ul>
 <h3>📫 Erreichbar über</h3>
