@@ -28,7 +28,7 @@
   </li>
 </ul>
 
-<p>✏️ Fun Facts</p>
+<h3>✏️ Fun Facts</h3>
 <ul>
   <li>Mag Neovim lieber als andere IDE's</li>
   <li>Mag Backend lieber als Frontend / Mobile (sind trotzdem cool)</li>
