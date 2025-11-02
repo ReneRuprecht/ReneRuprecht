@@ -26,12 +26,15 @@
   <li>
     3D Druck, ist einfach ein cooles Hobby.
   </li>
+  <li>
+    Homelabs, auch in klein ziemlich cool.
+  </li>
 </ul>
 
-<p>✏️ Fun Facts</p>
+<h3>✏️ Fun Facts</h3>
 <ul>
   <li>Mag Neovim lieber als andere IDE's</li>
-  <li>Mag Backend lieber als Frontend / Mobile (sind trotzdem cool)</li>
+  <li>Bau aktuell mein eigenes kleines Homelab</li>
   <li>Kann ein Git commit ohne Gui erstellen</li>
 </ul>
 <!--
